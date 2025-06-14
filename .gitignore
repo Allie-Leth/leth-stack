@@ -1,0 +1,6 @@
+# If you ever have umbrella-level env or temp files
+.env
+*.log
+
+# But track the module folders themselves
+modules/*
