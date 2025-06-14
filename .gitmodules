@@ -1,0 +1,3 @@
+[submodule "services/leth-dns"]
+	path = services/leth-dns
+	url = https://github.com/Allie-Leth/leth-dns.git
